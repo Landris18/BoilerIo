@@ -12,7 +12,7 @@ You can install all required packages by simply running the following commands:
 
 ## How to run on physical android device ?
 
-To run the boilerplate, you just need to follow these steps:
+To run the boilerplate, you just need to follow these steps assuming your `ANDROID_SDK_ROOT` and `JAVA_HOME` environment variables setup correctly:
 
 `npx cap sync`
 
