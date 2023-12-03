@@ -1,6 +1,6 @@
 # BoilerIo
 
-A boilerplate for ionic react projet
+A boilerplate for ionic react project
 
 ## Installation of required packages
 
