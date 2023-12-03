@@ -2,13 +2,15 @@
 
 A boilerplate for ionic react projet
 
-## Installation of packages
+## Installation of required packages
 
-You can install all needed packages by simply running the following command:
+You can install all required packages by simply running the following commands:
+
+`npm install -g @ionic/cli`
 
 `npm install`
 
-## How to run ?
+## How to run on physical android device ?
 
 To run the boilerplate, you just need to follow these steps:
 
@@ -18,7 +20,7 @@ To run the boilerplate, you just need to follow these steps:
 
 ## How to change the app icon ?
 
-To change the app icon, you need to change the file in <b>resources</b> folder without changing their names.
+To change the app icon, you need to change the files in ***resources*** folder without changing their names.
 After that you must run:
 
 `npx capacitor-assets generate`
