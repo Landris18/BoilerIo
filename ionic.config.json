@@ -1,0 +1,7 @@
+{
+  "name": "BoilerIo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
