@@ -17,7 +17,6 @@
 .env.development.local
 .env.test.local
 .env.production.local
-/.vscode/*
 !/.vscode/extensions.json
 .idea
 
@@ -29,4 +28,4 @@ yarn-error.log*
 .eslintcache
 
 package-lock.json
-.vscode/*
+.vscode
